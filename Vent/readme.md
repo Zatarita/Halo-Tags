@@ -1,5 +1,3 @@
-Author: Zatarita
-
 Description: SciFi Vent
 
 Type: Scenery Tag
