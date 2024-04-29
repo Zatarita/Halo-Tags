@@ -6,3 +6,5 @@ Type: Scenery Tag
 ![preview_1](vent_preview_1.png?raw=true)
 
 Feel free to use this in any of your maps if you like to add some decoration!
+
+Just add the file to your scenery folder
